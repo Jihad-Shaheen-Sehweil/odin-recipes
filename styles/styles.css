@@ -1,0 +1,10 @@
+* {
+    background-color: gray;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+}
+
+.food-image{
+    border-radius: 50%;
+}
